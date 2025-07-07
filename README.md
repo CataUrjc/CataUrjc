@@ -9,5 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CataUrjc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ---
+Actualmente estoy realizando el curso de TryHackMe
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cataa.png" alt="Your Image Badge" />
