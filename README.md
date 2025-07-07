@@ -10,7 +10,8 @@
 
 
 ---
-Actualmente estoy realizando el curso de TryHackMe
+I am currently taking the TryHackMe course
+
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cataa.png" alt="Your Image Badge" />
